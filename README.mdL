@@ -1,1 +1,26 @@
-Goal : Complete this Neuralis AI Up-Skilling Phase 2.1
+# Neuralis Module 1
+## Project 1: Development Environment Setup
+
+### Objective
+The objective of this project is to set up the development environment, create a Git repository, and verify that Python and Git are working correctly.
+
+### Learning Goals
+- Set up Python and Visual Studio Code.
+- Configure Git and GitHub.
+- Create and manage a Git repository.
+- Write and execute a simple Python program.
+- Practice committing and pushing code using Git.
+
+### Project Files
+- `main.py` – A simple Python program that prints "Hello, World!".
+
+### How to Run
+```bash
+python3 main.py
+```
+### Expected Output
+```text
+Hello, World!
+```
+### Author
+Rutvik Kumbhar
